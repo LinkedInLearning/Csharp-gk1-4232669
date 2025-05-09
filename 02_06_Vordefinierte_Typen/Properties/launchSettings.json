@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "02_06_Vordefinierte_Typen": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "remoteDebugEnabled": false
+    }
+  }
+}
