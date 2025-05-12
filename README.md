@@ -1,6 +1,6 @@
 # [DE-Kursname hier eintragen]
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `C# Grundkurs I`. Den gesamten Kurs finden Sie auf [LinkedIn Learning](https://www.linkedin.com/learning/csharp-grundkurs-I).
 
 ![COURSENAME][lil-thumbnail-url] 
 
