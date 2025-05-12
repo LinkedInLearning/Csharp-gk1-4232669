@@ -41,9 +41,8 @@ _CEO und CTO FORMFAKTEN GmbH, Berater und Trainer im Bereich der Software-Entwic
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/mirko-matytschak) an.
 
-[0]: [ASP.NET Hosting auf Linux](https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux)
-
-[1]: [C# effektiv programmieren](https://www.linkedin.com/learning/c-sharp-effektiv-programmieren-in-den-versionen-6-bis-11/lernen-sie-die-wichtigsten-eigenschaften-die-seit-der-version-5-der-programmiersprache-c-sharp-dazugekommen-si)
+1. [ASP.NET Hosting auf Linux](https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux)
+2. [C# effektiv programmieren](https://www.linkedin.com/learning/c-sharp-effektiv-programmieren-in-den-versionen-6-bis-11/lernen-sie-die-wichtigsten-eigenschaften-die-seit-der-version-5-der-programmiersprache-c-sharp-dazugekommen-si)
 
 [lil-course-url]: https://www.linkedin.com
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
