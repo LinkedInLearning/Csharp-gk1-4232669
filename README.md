@@ -1,25 +1,11 @@
-# [DE-Kursname hier eintragen]
+# C# Grundkurs 1: Sprachgrundlagen
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `C# Grundkurs I`. Den gesamten Kurs finden Sie auf [LinkedIn Learning](https://www.linkedin.com/learning/csharp-grundkurs-I).
+Dies ist das Repository für den **LinkedIn Learning** Kurs `C# Grundkurs 1: Sprachgrundlagen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
 
-[Practice It: X | All Other [Project Mojo] Courses]
-
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
-
-[Hands-On Introduction to X]
-
-Der beste Weg, eine Programmiersprache zu lernen, ist, sie in der Praxis anzuwenden. Deshalb ist dieser Kurs in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
-
-[Level Up (previously Code Challenges)] 
-
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. 
-Jede Folge der Code-Challenges-Serie bietet mindestens 12 praktische Übungen in verschiedenen Schwierigkeitsgraden, so dass Sie sich selbst herausfordern und das Gelernte festigen können. Schauen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie man einen Codespace einrichtet und zum Einsatz bringt. 
-
-[COURSEDESCRIPTION]
+Die Programmiersprache C# und das .NET-Framework – beides von Microsoft - stehen zusammen für eine Entwicklungsplattform, die an Leistungsfähigkeit und technischer Eleganz ihresgleichen sucht. Beide Bestandteile sind bei der ISO standardisiert und komplett Open Source. Die Typsicherheit der Sprache unterstützt Sie darin, Fehler zu vermeiden und bestehenden Code besser zu verstehen. In diesem LinkedIn-Learning-Kurs lernen Sie Programmieren mit C# von der Pike auf und Sie finden praktische Beispiele für nahezu alle Konstrukte der Sprache.
 
 ## Anleitung
 
