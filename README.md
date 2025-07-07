@@ -32,8 +32,5 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 1. [Objektorientierte Programmierung (OOP) mit C#](https://www.linkedin.com/learning/objektorientierte-programmierung-oop-mit-c-sharp)
 1. [ASP.NET Hosting auf Linux](https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux)
 
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-
-[1]: # (End of DE-Instruction ###############################################################################################)
-	
+[lil-course-url]: https://www.linkedin.com/learning/c-sharp-grundkurs-1-sprachgrundlagen
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGr3y3GhoSk3g/learning-public-crop_675_1200/B4EZflLA65HwAg-/0/1751896559547?e=2147483647&v=beta&t=XnrGWf88QAhhQvJZ8Fj1glQRHr1q7dZw7fVnv-yHdVE
